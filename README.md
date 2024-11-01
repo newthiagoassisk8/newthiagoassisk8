@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**newthiagoassisk8/newthiagoassisk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thiago Assis, a developer trying to stand out in a highly competitive market. After losing 2FA access to my old account [thiagoassisk8](https://github.com/thiagoassisk8), I created this new one to keep sharing my projects and collaborating with the community.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and constantly enhancing my skills across various tools and frameworks. Some of my favorite development tools are:
+
+- **Node.js**
+- **React**
+- **Linux**
+- And many more!
+
+💼 I'm always working to improve, exploring the latest market trends to deliver effective solutions.
+
+## Latest Repositories
+
+Take a look at the latest projects I've been working on! ⚡⚡
+
+---
+
+Thanks for stopping by!
