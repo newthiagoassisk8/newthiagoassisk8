@@ -6,9 +6,9 @@ I'm Thiago Assis, a developer trying to stand out in a highly competitive market
 
 I'm passionate about technology and constantly enhancing my skills across various tools and frameworks. Some of my favorite development tools are:
 
-- **Node.js**
-- **React**
 - **Linux**
+- **React**
+
 - And many more!
 
 💼 I'm always working to improve, exploring the latest market trends to deliver effective solutions.
