@@ -73,12 +73,3 @@ https://github.com/newthiagoassisk8/
 
 To work as a **Full Stack Developer**, contributing mainly on the **Front-end**, while being fully capable of understanding, implementing, and collaborating on the **Back-end**, delivering complete and well-thought-out solutions.
 
-* * *
-
-If you want, I can:
-
-- shorten this for a **LinkedIn “About” section**
-    
-- adapt it for **international recruiters**
-    
-- tailor it to **Front-end**, **Full Stack**, or **Junior/Pleno** roles
