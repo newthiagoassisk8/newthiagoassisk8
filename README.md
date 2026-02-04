@@ -10,7 +10,6 @@ I have a solid foundation in **JavaScript** and work primarily with **React** on
 
 I like to understand the *why* behind technical decisions, going beyond simply “making things work.” I aim to write clean, predictable, and sustainable code, always thinking about maintainability, readability, and long-term evolution.
 
-* * *
 
 * * *
 ### 🎥 Technical content on YouTube
