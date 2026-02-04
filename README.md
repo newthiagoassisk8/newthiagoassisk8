@@ -12,6 +12,18 @@ I like to understand the *why* behind technical decisions, going beyond simply �
 
 * * *
 
+* * *
+### 🎥 Technical content on YouTube
+
+I also create **technical content on YouTube**, where I present real projects, explain technical decisions, and practice technical communication — something I consider essential for a good developer.
+
+For my **friends from other countries** (👋), I currently have **one video in English**, available here:  
+👉 https://youtu.be/PM2qVtTS474
+
+👉 **Technical channel:** https://www.youtube.com/@thiagoassis962
+
+
+* * *
 ### 🧠 Main stacks & knowledge
 
 **Front-end (my specialty)**
@@ -60,18 +72,6 @@ I actively build and share projects on GitHub, where I focus on real-world appli
 👉 **GitHub:**  
 https://github.com/newthiagoassisk8/
 
-* * *
-### 🎥 Technical content on YouTube
-
-I also create **technical content on YouTube**, where I present real projects, explain technical decisions, and practice technical communication — something I consider essential for a good developer.
-
-For my **friends from other countries** (👋), I currently have **one video in English**, available here:  
-👉 https://youtu.be/PM2qVtTS474
-
-👉 **Technical channel:** https://www.youtube.com/@thiagoassis962
-
-
-* * *
 
 ### 🚀 Goal
 
