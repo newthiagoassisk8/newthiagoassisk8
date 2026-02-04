@@ -1,6 +1,3 @@
-Here’s the **English version**, adapted for LinkedIn and already referencing your **GitHub** and **YouTube** in a clean, professional way 👇
-
-* * *
 
 ## 👨‍💻 Full Stack Developer | Front-end Specialist
 
