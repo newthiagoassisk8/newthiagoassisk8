@@ -61,14 +61,6 @@ For my **friends from other countries** (👋), I currently have **one video in 
 
 * * *
 
-### 💻 GitHub
-
-I actively build and share projects on GitHub, where I focus on real-world applications and continuous improvement:
-
-👉 **GitHub:**  
-https://github.com/newthiagoassisk8/
-
-
 ### 🚀 Goal
 
 To work as a **Full Stack Developer**, contributing mainly on the **Front-end**, while being fully capable of understanding, implementing, and collaborating on the **Back-end**, delivering complete and well-thought-out solutions.
